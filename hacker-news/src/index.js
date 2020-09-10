@@ -22,7 +22,7 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from 'components/App';
+import App from 'components/app';
 import GlobalStyles from 'styles/globals';
 import * as serviceWorker from './serviceWorker';
 const renderApp = () => {

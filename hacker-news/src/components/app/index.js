@@ -1,9 +1,6 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import App from 'components/App';
-import GlobalStyle from 'styles/globals';
-import registerServiceWorker from './registerServiceWorker';
 import logo from './logo.svg';
+
 
 function App() {
   return (
